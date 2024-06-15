@@ -1,0 +1,38 @@
+.form-data-main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 40px;
+    gap: 40px;
+    /* align-items: center; */
+}
+
+th {
+    font-weight: 500;
+    border: none;
+}
+
+thead {
+    /* border: none; */
+}
+
+/* table {
+    border: none;
+} */
+
+.form {
+    color: #3ABEF9;
+}
+
+tr {
+    align-items: center;
+}
+
+td {
+    /* border: none; */
+    text-align: center;
+}
+
+tbody {
+    border: none;
+}
